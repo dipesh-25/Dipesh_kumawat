@@ -11,27 +11,35 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://www.linkedin.com/in/dipesh-kumawat-9074a327b/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — dipesh-kumawat
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              B.Tech – Computer Science & Engineering (AI), Mandsaur Institute of Technology — 2023–2027
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              Senior Secondary (XII) CBSE – Science, Aditya Public School, Mandsaur (81%) — 2023
             </p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
+            <h4>Contact & Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="mailto:dipeshkumawat4321@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Email <MdArrowOutward />
+            </a>
+            <a
+              href="https://github.com/dipesh-25"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -40,7 +48,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/dipesh-kumawat-9074a327b/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -48,28 +56,10 @@ const Contact = () => {
             >
               LinkedIn <MdArrowOutward />
             </a>
-            <a
-              href="https://www.youtube.com/@Leftbraincoder"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              YouTube <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/leftbraincoder/"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
-            </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Dipesh Kumawat</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

@@ -15,58 +15,57 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>SDE Intern (Web)</h4>
+                <h5>Bluestock Fintech (Virtual)</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              May 2025 – June 2025. Built and optimized scalable fintech modules. Led debugging 
+              and testing to improve performance. Developed new features enhancing user experience, 
+              following agile practices and development standards.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>AI Intern</h4>
+                <h5>1M1B, AICTE & IBM SkillsBuild</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2023–27</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Completed a 6-week virtual internship focused on AI, sustainability, 
+              and emerging technologies. Gained hands-on experience with AI/ML concepts, LLMs, and 
+              real-world sustainability challenges while developing industry-relevant technical skills
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Certified Developer</h4>
+                <h5>IBM & Udemy</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2024–25</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Data Analytics Using Python (IBM SkillBuild, Dec 2024 – Jan 2025). 
+              Full Stack Development (Udemy, Oct 2024 – Jan 2025). Highly competent in 
+              modern web stacks and data visualization.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Core Member</h4>
+                <h5>Mandsaur University</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2024-25</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Core Member, Chancellor Brigade – Student Council 
+              Promoted from Technical Committee Head (2023–24); led multimedia, event promotion, and 
+              outreach initiatives for workshops and Spandan Fest. Also achieved Winner – Inter-Department Smart India Hackathon.
             </p>
           </div>
         </div>

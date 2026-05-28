@@ -5,32 +5,25 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "Simhasthai",
+    category: "Real-time Seva Suraksha Samadhan",
+    tools: "React.js, Node.js, AI Analytics (Crowd heatmaps, Emergency Access, Alert System)",
+    image: "/images/preview1.png",
+    link: "https://github.com/dipesh-25",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
-  },
-  {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
+    title: "Lexi",
+    category: "Personal Productivity & Task Management",
+    tools: "React.js, JavaScript, Node.js (Task Management and Workflow Organization)",
     image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    link: "https://github.com/dipesh-25",
+  },
+  {
+    title: "air-quality-risk-ai",
+    category: "AI-Based Air Quality Risk Index & Health Advisory System",
+    tools: "React.js, JavaScript, Node.js (Task Management and Workflow Organization)",
+    image: "/images/riskai.png",
+    link: "https://github.com/dipesh-25",
   },
 ];
 
